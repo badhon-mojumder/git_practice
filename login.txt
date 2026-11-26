@@ -1,1 +1,2 @@
 Welcome to Login Feature
+User can enter email and password
